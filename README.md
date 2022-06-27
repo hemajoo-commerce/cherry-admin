@@ -1,1 +1,1 @@
-# cherry-shared
+# cherry-client
