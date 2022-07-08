@@ -1,1 +1,1 @@
-# cherry-client
+# cherry-admin
